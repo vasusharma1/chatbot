@@ -7,5 +7,5 @@ I am treating each question as individual class mapped with their indexes which 
 # Library used:
 scikit-learn 
 # demo
-chatbot/00000192.jpg
+![demo]/chatbot/00000192.jpg?raw=true
 
