@@ -40,4 +40,4 @@ predicted=lr.predict(user_input_query_tfidf)
 
 for index_of in predicted:
 	print "Predicted Question->",'%s' % (train_set[index_of])
-	print "answers->",'%s' % (answers[index_of])
+	print "answer->",'%s' % (answers[index_of])
