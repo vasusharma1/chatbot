@@ -1,5 +1,5 @@
 # Introduction:
-Simple chatbot for answering questions, can be used with any csv file, containing questions in row[0] and their respective answers in row[1].
+Simple chatbot for answering questions, can be used with any csv file, containing questions in first column and their respective answers in second column.
 ## Classifier used:
 Naive Bayes classifier for multinomialNB
 ## What's happening?
