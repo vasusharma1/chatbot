@@ -6,4 +6,6 @@ Naive Bayes classifier for multinomialNB
 I am treating each question as individual class mapped with their indexes which are identified with tf-idf matrix used with n-grams(with n=3) (for more accuracy with continuous words) , ones naive bayes classifier classifies index value, that index value is used to retrieve question with it's answer.
 # Library used:
 scikit-learn 
+# demo
+
 
